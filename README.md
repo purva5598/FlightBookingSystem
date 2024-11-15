@@ -1,6 +1,8 @@
 
 # Flight Booking System
 
+![Flight Booking System](/webImage.png)
+
 This is a setup with a console-based C++ backend and a React frontend.
 
 ## Instructions
