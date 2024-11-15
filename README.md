@@ -1,7 +1,7 @@
 
-# Simplified Flight Booking System
+# Flight Booking System
 
-This is a simple setup with a console-based C++ backend and a React frontend.
+This is a setup with a console-based C++ backend and a React frontend.
 
 ## Instructions
 
@@ -24,4 +24,4 @@ This is a simple setup with a console-based C++ backend and a React frontend.
    npm start
    ```
 
-Enjoy the basic simulation of a flight booking interface!
+Enjoy the simulation of a flight booking interface!
