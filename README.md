@@ -1,8 +1,8 @@
 
 # Flight Booking System
-[Live Demo](https://flight-booking-system-lyart.vercel.app/)
 
-![Flight Booking System](/webImage.png)
+![image](https://github.com/user-attachments/assets/46e7028f-6c5d-4c40-8f71-919f16a86969)
+
 
 This is a setup with a console-based C++ backend and a React frontend.
 
